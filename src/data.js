@@ -1,34 +1,35 @@
 export const projects = [
     {
-      title: "React Reserve",
+      title: "StackOver Flow-clone",
       subtitle: "MERN Stack",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+        "Created Stack over flow clone using MERN stack and intregated chatbot using OpenAI APIs.",
       image:"https://99designs-blog.imgix.net/blog/wp-content/uploads/2018/10/attachment_100040756-e1538485934255.jpeg?auto=format&q=60&fit=max&w=930",
-      link: "https://reactbootcamp.com",
+      link: "https://stackoverflow-c.onrender.com/",
     },
     {
-      title: "React Tracks",
-      subtitle: "React and Python",
+      title: "Fitness-App",
+      subtitle: "React",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+        
+        "Created react fintness app using Rapid APIs and used material UI for styling.",
       image:"https://99designs-blog.imgix.net/blog/wp-content/uploads/2018/10/attachment_100040756-e1538485934255.jpeg?auto=format&q=60&fit=max&w=930", 
-      link: "https://reactbootcamp.com",
+      link: "https://fitness-app-gules-three.vercel.app/",
     },
     {
-      title: "DevChat",
-      subtitle: "React and Firebase",
+      title: "Chat-App",
+      subtitle: "Node and Socket.io",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis volu",
+        "Intergated real time chatting application using socket.io and node",
         image :"https://99designs-blog.imgix.net/blog/wp-content/uploads/2018/10/attachment_100040756-e1538485934255.jpeg?auto=format&q=60&fit=max&w=930",
         
       link: "https://reactbootcamp.com",
     },
     {
-      title: "Epic Todo App",
-      subtitle: "React Hooks",
+      title: "React Portfolio",
+      subtitle: "React & Tailwind ",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+        "Created personel portfolio using React and Tailwind Css for styling",
       image: "https://99designs-blog.imgix.net/blog/wp-content/uploads/2018/10/attachment_100040756-e1538485934255.jpeg?auto=format&q=60&fit=max&w=930",
 
       link: "https://reactbootcamp.com",
@@ -36,15 +37,13 @@ export const projects = [
   ];
   
   export const skills = [
-    "HTML",
-    "CSS",
-    "Java",
+    "HTML & CSS",
     "JavaScript",
+    "Java",
+    "Git",
     "React",
     "Node",
     "MongoDB",
     "SQL",
-    "Data Structure",
-    "OOPs"
   ];
   
