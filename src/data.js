@@ -32,7 +32,7 @@ export const projects = [
         "Created personel portfolio using React and Tailwind Css for styling",
       image: "https://99designs-blog.imgix.net/blog/wp-content/uploads/2018/10/attachment_100040756-e1538485934255.jpeg?auto=format&q=60&fit=max&w=930",
 
-      link: "https://reactbootcamp.com",
+      link: "https://my-portfolio-ruddy-theta-60.vercel.app/",
     },
   ];
   
