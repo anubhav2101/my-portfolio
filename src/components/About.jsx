@@ -76,7 +76,7 @@ export default function About() {
           </div>
         </div>
 
-        <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 sm:hidden">
+        <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
           <img
             src={AboutImg}
             alt="cover-img"
