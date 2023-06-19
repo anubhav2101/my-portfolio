@@ -37,7 +37,7 @@ export default function About() {
           <h2 className="text-2xl text-white italic">Who I am</h2>
           <p className="my-4 leading-relaxed">
             My name is Anubhav verma and I am Front-end developer based in
-            kanpur,UP,India Proficient in building robust web applications.
+            kanpur, UP , India . Proficient in building robust web applications.
             <br />
             <br />
             My field of intrest are creating seamless user experiances,
@@ -76,7 +76,7 @@ export default function About() {
           </div>
         </div>
 
-        <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
+        <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 ">
           <img
             src={AboutImg}
             alt="cover-img"
