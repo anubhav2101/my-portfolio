@@ -60,7 +60,7 @@ export default function About() {
               Projects
             </a>
           </div>
-          <div className="flex justify-between mt-10 w-[250px] text-green-400 ">
+          <div className="flex justify-between mt-10 w-[350px] text-green-400 ">
             <a href="https://github.com/anubhav2101" target="_taget">
               <AiFillGithub size={30} />
             </a>
@@ -80,7 +80,7 @@ export default function About() {
           <img
             src={AboutImg}
             alt="cover-img"
-            className="object-cover object-center rounded h-[429px]"
+            className="object-cover object-center rounded  "
           />
         </div>
       </div>
