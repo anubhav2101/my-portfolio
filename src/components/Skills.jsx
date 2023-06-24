@@ -7,7 +7,7 @@ export default function Skills() {
       <div className="container px-5 py-10 mx-auto">
 
         <div className="text-center mb-20">
-          <h1 className="sm:text-4xl text-3xl font-medium title-font mt-8 text-white ">
+          <h1 className="sm:text-4xl text-3xl font-medium title-font mt-10 text-white ">
             Skills &amp; Technologies
           </h1>
         </div>
