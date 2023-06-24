@@ -7,11 +7,11 @@ export default function Skills() {
       <div className="container px-5 py-10 mx-auto">
 
         <div className="text-center mb-20">
-          <h1 className="sm:text-4xl text-3xl font-medium title-font mt-8 text-white mb-1">
+          <h1 className="sm:text-4xl text-3xl font-medium title-font mt-8 text-white ">
             Skills &amp; Technologies
           </h1>
         </div>
-        <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
+        <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2 mt-0">
           {skills.map((skill) => (
             <div key={skill} className="p-2 sm:w-1/2 w-full">
               <div className="bg-gray-800 rounded flex p-4 h-full items-center">
