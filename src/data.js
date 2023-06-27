@@ -5,7 +5,7 @@ export const projects = [
       subtitle: "MERN Stack",
       description:
         "Created Stack over flow clone using MERN stack and intregated chatbot using OpenAI APIs.",
-      image: "https://drive.google.com/file/d/1LnDsfMjkwd-C9hjPB7HVg_CtZi-hTDIb/view?usp=drivesdk",
+      image: "https://drive.google.com/file/d/1LnDsfMjkwd-C9hjPB7HVg_CtZi-hTDIb/view",
       link: "https://stackoverflow-c.onrender.com/",
       code : "https://github.com/anubhav2101/stack-over-flow-clone"
     },
